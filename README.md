@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greydoubt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://myreadme.vercel.app/api/embed/greydoubt?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <!--
 **greydoubt/greydoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
