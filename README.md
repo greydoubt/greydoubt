@@ -7,6 +7,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/greydoubt?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=greydoubt&theme=juicyfresh&no-bg=true" />
 
 <!--
 **greydoubt/greydoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
