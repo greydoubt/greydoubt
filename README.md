@@ -20,8 +20,8 @@ ROOM
 	PICTURE ID 14 NAME "diceeyeofhorus.gif" TRANSCOLOR 0 ENDPICTURE
 	PICTURE ID 15 NAME "dicescarab.gif" TRANSCOLOR 0 ENDPICTURE
 	PICTURE ID 16 NAME "diceanubis.gif" TRANSCOLOR 0 ENDPICTURE
-	PICTURE ID 17 NAME " λx . ophidia ereц grex          .    أوفيديا إريكس جريكس   ..gif" TRANSCOLOR 0 ENDPICTURE
-	PICTURE ID 18 NAME "arrowrr.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 17 NAME " λx . ophidia ereц grex          .    أوفيديا إريكس جريكس   .arrowll.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 18 NAME " λx . ophidia ereц grex          .    أوفيديا إريكس جريكس   .arrowrr.gif" TRANSCOLOR 0 ENDPICTURE
 	SPOT
 		ID 1
 		OUTLINE 25,150  55,150  55,177  25,177
