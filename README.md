@@ -705,6 +705,106 @@ ON ENTER { { CLEARLOOSEPROPS PAINTCLEAR } NBRROOMUSERS 2 < IF }
 		ENDDOOR
 	ENDROOM
 
+ROOM
+	ID 141
+	NOPAINTING
+	NOCYBORGS
+	NAME "Scripting Tips & Tools"
+	PICT "info5.gif"
+	ARTIST "Alissa"
+	PICTURE ID 9 NAME "info5a.gif" ENDPICTURE
+	PICTURE ID 10 NAME "info5b.gif" ENDPICTURE
+	PICTURE ID 11 NAME "info5c.gif" ENDPICTURE
+	PICTURE ID 12 NAME "info5d.gif" ENDPICTURE
+	PICTURE ID 13 NAME "info5e.gif" ENDPICTURE
+	PICTURE ID 14 NAME "info3c.gif" ENDPICTURE
+	PICTURE ID 15 NAME "info3d.gif" ENDPICTURE
+	PICTURE ID 16 NAME "none.gif" TRANSCOLOR 56 ENDPICTURE
+	PICTURE ID 17 NAME "info5aa.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 18 NAME "info5bb.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 19 NAME "info5cc.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 20 NAME "info5dd.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 21 NAME "info5ee.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 22 NAME "info5ff.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 23 NAME "info5gg.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 24 NAME "info5hh.gif" TRANSCOLOR 0 ENDPICTURE
+	SPOT
+		ID 5
+		DONTMOVEHERE
+		OUTLINE 67,145  433,145  433,285  67,285
+		LOC 250,215
+		PICTS 16,0,0 17,0,0 24,0,0 18,0,0 19,0,0 20,0,0 21,0,0 22,0,0 23,0,0 ENDPICTS
+		ENDSPOT
+	DOOR
+		ID 1
+		DONTMOVEHERE
+		OUTLINE 63,94  165,94  165,111  63,111
+		LOC 114,102
+		PICTS 0,0,0 9,0,0 ENDPICTS
+		SCRIPT
+;~MediaList~;click
+ON SELECT { "click" SOUND
+{ 1 ME SETSPOTSTATELOCAL } 5 ALARMEXEC
+{ 0 ME SETSPOTSTATELOCAL } 40 ALARMEXEC
+{ "bitcoin:BC1QGFWZMKKQJ09KF88FHA6ZTD597434XHZ3ZV487T?label=satoshi_a&message=satoshi_a" NETGOTO } 50 ALARMEXEC
+}
+		ENDSCRIPT
+		ENDDOOR
+	DOOR
+		ID 2
+		DONTMOVEHERE
+		OUTLINE 172,94  327,94  327,111  172,111
+		LOC 249,102
+		PICTS 0,0,0 10,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { "click" SOUND 
+
+
+	
+    - 67 Ӏ Ӏ 
+̴̝̼̪̻͔͎͈͇̼͑̇̑̌̄͡    -̴̬̲̱̳̆͊͐̋̉̍͑́͜ a̛̮̩̻̠̣̜̗̽̂͊̎̎͘͟͝͡ ạ̴͚̭̤̣̄̾̏̉̃̂͊͟ b̷̡̧̜̖̠̜̮͉̫̪̽́̐̊̅͝ b̗̙͎̭̟̠̑͌̍̔͑͆̅͌̈́͜ v̢̳̥̗̹̗͗̎̋̂̓̅͑̆̾͜͜ —̷̧̢̡̼̻̞̲̥͓́̅̾̌̌͠ g̢̛̬̬̙͉̖̱̦̈́̃̀͊̓͠ ɣ̷̜͚͎̣͇̗̖͕̰̗͂̓̆͆͛̆͠ g̬͈̖͈̖̹͛͌̄̔̃͂͜ŭ̢̮̖͖̞̼̌̋̀̎͡ͅ g̵̨̡̩̬̠̹͗̔͑̏͒̉͟͞°̨̘̜͎̈́͆̆̓̚ͅ g̶̡͖̗̙͖̏̐̌̍͞′̴̢̻̠̥̘͋͌̇͆̕͟ͅ′̸̧̬̯̹̳̟̯̝̮͑̌̊́̔͂͘͝ͅ ġ̵̨̰̜̪̪̙̾̂̿̑̀͗͐͆̀͠ ģ̢̥̻̲̔̉͐͐̏̈́̈͟′̢̝̗͓̬̭͓̆͗̃̃͆̇′̭̝̮̪͓̥̍̉͊̎͋̾͌̄̄͘͟͜ų͔̥̥͖͙̾͋̆̾̽͟͡ ģ̪̥̯̮̲̠̇͒̌͆̒̌̓̔͟͢͠°̱̰̺̘͓̤̉̽͒̃͆̊̀̕ ḓ̢̛̙͖͈͖̯̝̺͆̄̍̌͂͠ d͖̼͚̟͈̪͖͖̹̙̍̆̀̓̆̎̚͘͡ d̢̡̫͙̲͙̠͆̋̈́̀̐͘͢͞ź̹̟͈̼͔͖̱̯̮̮͌͑̾͘ḩ̦͕̻̬̠̰̿̑͆͂́̈͘͡͠ͅ ǯ̫̯̦̙̲͌͋͐̅̒̋̀͌̆′̸̡͍̼͖̥͇̻͍̫̞̿͌̓̿̀͐̓́̑ d̢̥̝͉͙̘̲̼͔̙̑̓̋̀́̀̑z̨̡̛̗͎̥̄́̋̿̀̐̇͛̽ ʒ̷̧̞̻͎̲̬͌͆̈͒̕͝ d̨̡̛͇̪͈͖̰̭̥͂̆͌̉̕ͅz̢͚̲͕̪̼̣̞̬̮͌̾͑̄͘u̡͈̞͈̭͒̔̎̑̏̂̉͋̇͗ ʒ̖̘̙͕̲̳̠̮͌̀̇̒͜͠͠
+    
+    - 68 Ӏу Ӏу
+    
+̡̢̰̬̾͆͋̑͛̕͜    
+͚̯̱͇̖̠̩͔̍̂̈́̇̈́͠    -̵̨̛͚̹̤͍̖͕̌̌̇̈́̀̿͆̈͟ k̸̡̢͇͔̱̖̎͑͒̃̔͝͡͠ͅ
+̴̧͉͇̭̯͙̙͖̯̍͐̈́̑̏͢͠
+̢̘̖͖̭̪̱̖͋͂̾̑́̏́͠    
+    - ISO 9 KNAB 1995(1.0) 2003(2.0)
+    
+    - t‡u ţw u u
+̶̛̩͖̠̰͓̇̍͊̃̄̒̋
+    
+    - f f f‡ f̧ (̵̖̭̺͕̠͒̌̇̾̓2̶̛̖̹̯͚̟̟̀́̑̆͌̐͘.̡͍͕͎̦̪̊̆͂̐͠
+    
+    - h x hu xw h′′ ḩ h′′u ḩw h′ h 
+̱̼̹͕̘̆̀̀̆̑͟͜    -̨̼̦͕̳̮͚̊̔́͌̍̽̍ k̻͍̜͈̭̬̺̖̖̋̈́̓̔̍̈́ͅw̦͕̭͇͙͕̿̂͊̒̐̃̋͜͢
+͚̭̺̗̼͍̗̱̌̐͒̒̂̕
+    
+    - c c cu cw c‡ ç
+    ż̧̛̯͚̔̋̅͑͛̿̚͢͜͠w̶̧̜̟̗̘͉̗̦̗̭͚͕͎̺̑͂̉͊͛͑̽̄́̎̓͘͟͠͠
+̨͎͈̤͇̩̞̣̍̊͊̄́͆̀͢
+̫͓͎͓͍͎͉̙̐̓̈́̒̑́͘͠͞    
+̨͉̟̲͍̓͛̓̃̎́̆͘̚͝    -̧̻̬̤̼̥̟͒̆̐̋̄̕͟͜ ź̵͔̭̙̠̹̤̭̩͖̣̈́́͑́̇͂͗̄̚̕
+̢̢̛̘̞̹͖͚̤̮̍̈́̑̾̓̿́̈́̅͟
+    - č ć č′′ č č‡ ç̌
+    
+    - š š š′′ s̄ š′′u sw̄ š‡ ş̄ š‡u şw̄ ŝ ś
+
+͇͙̭̫̯̑͂͊̈͑̽̂̚͜    -̸̧̬̹̬̝̹͍̳̭͛́̒͆̋̈ 2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡у̧͓͕͖̠̀̀̑́̍͋͒̇̕͢͞ͅ к̸̡̞̪̞̣̦̤͔̙̂̒͛̽̈̂̋̆ͅӀ̶̨̩̫̞͙̙̳̖̼͙͛̂̈̓̄͌̅͆͘у̸̛̱̫̟̩̱̥͓͗͌̔͋͗ ̧̛͚͍͍̬̓͑̈́̓̈́͑̈͠
+̧͚̳̤̰̼̑̓͛̈́̕
+̙̜̝̰͔̰̱̿̉͒͌͘͢    
+̧̢͕̳̲̖̝̗̜̑̄̿̀̒̆̒͝ͅ    -̸̭͍͚͔̟͔̃́̊̊̃̌̇͟ 2̭̼͇̙̘̮̺͊̊͐̿́͐͝7̷͓̝̣̗̣̍̍̇̆̚̚͝ Л͙͕̫̞̳̳̻̫̈̃̇͌̄̕͜ л̧̢̣̪̫̩̮̾̍̾̊̑́ͅ
+̶̡̛̛̤͚̝̹̥̮̱̖͍͒͌̓̌̿͒̌͘
+̛̗̥͔̟͖̣͎͋̉̿̔̿͘͞͠͞    
+̴̝͉͕̞̫̠̻̺͚͐͐͛̿̎̊͆͞͠    -̡̗̻͙̰̩͕̙̄͒̿̑͋͢ 3̸̨̡͙̥̻͚̗̱̅͆́̿̇̓͗͌̾0͎͖̞̼̻̩͍͓̑̽̅̇́͘ М̡̗͉͖͙̙͓͗̆̌͑̊͆͡м̞̲͓͖̘͇͙̇͌͛͌̏̕͘͢͝
+̷̛̞͙͎̠̮̲̅̈̎̐̚͜͡͝͝
+̧͉͉͕̝̅͗̓͐̿́̏͆̕̚    
+̡͔̬̪̰͌̓͐͋̓͠͠͠    -̴̨̡̯̫̱̖̭͕̎́̀̄̈́̎ 3̛̯̭͔̳͓̗̥͚̙̂͛̉̀̀ͅ1̲̳̺̲̺̦̑̋͂̇͋̇̐̕ Н̧̖̖͍̤̪̬͓̝̐̆͒̏̔ н̴̺͖̙͎̰͌̊̌̍͞
+̴̭͓͔͕͙̖̲̱̭̉͌͒́̐̀̐͟
+̬̘͚̯̙̓̀̃͆̈̇̌̍̉͢    
+
+
 
 -->
 
@@ -1286,7 +1386,21 @@ ROOM
 	NOCYBORGS
 	NAME "Scripting Tips & Tools"
 	PICT "info5.gif"
-	ARTIST "Alissa"
+	ARTIST "̡̬̲͉̩̂̔̓̓̋̔̆͒̇̕
+̤̟̞̮̭̒̒̃͑̇̏ͅ    
+̶̨͔̖̩̦͌̑͐̐̎͘̕    -̛̻͓̠̗̫̯̗̎̉͑̓́́͞͝͝ ź̡̛̰͔̠̟̩͑̄̄̿̈́̈́̀͞ͅ
+̶̢͚͍͈̥̺̞͋͐̓̂̒͜͜͞͞͠
+̵̨̛̝̺̼͔͓̏̒̀̅̄͘͝͞    
+̶͇͇̯̼̪̀́̚͟͠͞    -̢͇̹̱̻͚̻̲̂̽͑͑̂͝͝ z̵͓̫̗̭̦̄̆͒̈́́̚͠
+̛̗͚̙̝͇̰̀̂͊͛̍͊͒͜
+̷̡̛̰̩̦͓̘̤̗̄̃̅̂̽͐͂̆̿͜    
+̵̧͚̞̮̦͓̱͉͎̄̓̈͐̈́̀    -̷̻̹̠̥͓͇̬̳̒̃͊̒̚ͅ ḯ̷̹̟͉̦͕̹̟̭̭̏̂̆̎̕ͅ
+̵̡͇̯̗̘͛͛̓́̈́͢
+̷̢͍͓̱͉̐͑̑͆̅̂̃̄̃͞    
+̶̧̨̖̙̗̻̘̠̱̃̏̊̓͗̉̊̎̔̍͜    -͍̭͙͚̥͌̀̾̊̚ͅ j̺̼͍͇͚̀̀͐́̑̏̓
+͕̘̖͔͕̇̾̌́̃̏͑̚
+̴̹̬̦̟̣͚̲͙̑͆̀̎͋͟    
+̞̬͓͔͔̋̅͋̒̕͜   "
 	PICTURE ID 9 NAME "info5a.gif" ENDPICTURE
 	PICTURE ID 10 NAME "info5b.gif" ENDPICTURE
 	PICTURE ID 11 NAME "info5c.gif" ENDPICTURE
