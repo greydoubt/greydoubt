@@ -852,7 +852,13 @@ ts͡ c ts͡u c° ts͡ḣ c̣ ch čʹ ch′′ č chḣ č̣ sh š sh′′ ŝ sh
 iu͡ — ia͡ — ḣ ʾ ḣu ʾ°
 
 
+′ — 39.13 ТӀтӀ રો'નгъу тоонт нютаг varzesh3
 
+
+′ — 39.1314 ТӀтӀ રો'નгъу тоонт нютаг varzesh3 for big science
+
+
+##  iu͡ — ia͡ — ḣ ʾ ḣu ʾ°
 
 <!-- -->
 <center><img align="center" src="https://github-readme-stats.vercel.app/api?username=greydoubt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=sator-arepo-tenet-opera-rotas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/>
@@ -967,6 +973,8 @@ If the sour grapes die on the vine, it will be said, The Sweet Sadism of Shiva N
     - 24 Къу къу
 
     - 25 КӀ кӀ
+
+ 	— 39.13 ТӀтӀ રો'નгъу тоонт нютаг varzesh3
 
     - 26 КӀу кӀу 
 
