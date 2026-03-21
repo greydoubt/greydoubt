@@ -1,4 +1,709 @@
-<!-- -->
+<!-- 
+ROOM
+	ID 101
+	NOCYBORGS
+	NAME "Egyptian Yahtzee"
+	PICT "EgyptianZee.gif"
+	PICTURE ID 1 NAME "onept.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 2 NAME "diceeg1.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 3 NAME "diceeg2.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 4 NAME "diceeg3.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 5 NAME "diceeg4.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 6 NAME "diceeg5.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 7 NAME "diceeg6.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 8 NAME "yahtholdgold.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 9 NAME "1markgold.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 10 NAME "2markgold.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 11 NAME "3markgold.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 12 NAME "3xmarkgold.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 13 NAME "4scarablights.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 14 NAME "diceeyeofhorus.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 15 NAME "dicescarab.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 16 NAME "diceanubis.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 17 NAME "arrowll.gif" TRANSCOLOR 0 ENDPICTURE
+	PICTURE ID 18 NAME "arrowrr.gif" TRANSCOLOR 0 ENDPICTURE
+	SPOT
+		ID 1
+		OUTLINE 25,150  55,150  55,177  25,177
+		LOC 40,162
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 2
+		OUTLINE 66,149  96,149  96,176  66,176
+		LOC 81,161
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 3
+		OUTLINE 107,150  137,150  137,177  107,177
+		LOC 122,162
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 4
+		OUTLINE 149,150  179,150  179,177  149,177
+		LOC 164,162
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 5
+		OUTLINE 190,149  220,149  220,176  190,176
+		LOC 205,161
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 6
+		OUTLINE 230,149  260,149  260,176  230,176
+		LOC 246,161
+		PICTS 1,0,0 2,0,0 3,0,0 4,0,0 5,0,0 6,0,0 7,0,0 14,0,0 15,0,0 16,0,0 ENDPICTS
+		ENDSPOT
+	SPOT
+		ID 13
+		DONTMOVEHERE
+		OUTLINE 116,24  170,24  170,40  116,40
+		LOC 156,33
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 0 GET crv = ME co =
+"@167,34 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 14
+		DONTMOVEHERE
+		OUTLINE 116,41  170,41  170,56  116,56
+		LOC 156,49
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 1 GET 2 * crv = ME co =
+"@167,51 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 15
+		DONTMOVEHERE
+		OUTLINE 116,57  170,57  170,73  116,73
+		LOC 156,66
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 2 GET 3 * crv = ME co =
+"@167,66 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 16
+		DONTMOVEHERE
+		OUTLINE 116,74  170,74  170,90  116,90
+		LOC 156,83
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 3 GET 4 * crv = ME co =
+"@167,84 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 17
+		DONTMOVEHERE
+		OUTLINE 116,91  170,91  170,107  116,107
+		LOC 156,100
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 4 GET 5 * crv = ME co =
+"@167,100 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 18
+		DONTMOVEHERE
+		OUTLINE 116,108  170,108  170,123  116,123
+		LOC 156,116
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
+myturn GLOBAL
+{ dd STRTOATOM EXEC 5 GET 6 * crv = ME co =
+"@167,117 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 19
+		DONTMOVEHERE
+		OUTLINE 311,7  366,7  366,22  311,22
+		LOC 343,16
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd "[3456]" GREPSTR dt * crv =
+ ME co =
+"@343,18 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 20
+		DONTMOVEHERE
+		OUTLINE 311,23  366,23  366,40  311,40
+		LOC 343,32
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd "[456]" GREPSTR dt * crv =
+ ME co =
+"@343,33 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 21
+		DONTMOVEHERE
+		OUTLINE 311,41  366,41  366,56  311,56
+		LOC 343,49
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd "[56]" GREPSTR dt * crv =
+ ME co =
+"@343,51 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 22
+		DONTMOVEHERE
+		OUTLINE 311,57  366,57  366,72  311,72
+		LOC 343,65
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd "3.*3" GREPSTR 35 *  crv =
+ ME co =
+"@343,67 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 23
+		DONTMOVEHERE
+		OUTLINE 311,73  366,73  366,88  311,88
+		LOC 343,81
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd "4" SUBSTR dd "2" SUBSTR AND 35 *  crv =
+ ME co =
+"@343,82 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 24
+		DONTMOVEHERE
+		OUTLINE 311,106  366,106  366,121  311,121
+		LOC 343,114
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dt crv = ME co =
+"@343,117 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 25
+		DONTMOVEHERE
+		OUTLINE 465,25  509,25  509,40  465,40
+		LOC 500,32
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd " [123] [123] [123] [123] " GREPSTR 25 *  crv =
+ ME co =
+"@500,32 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 26
+		DONTMOVEHERE
+		OUTLINE 465,41  509,41  509,57  465,57
+		LOC 500,49
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd " [12] [12] [12] [12] [12] " GREPSTR 40 *  crv =
+ ME co =
+"@500,49 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 27
+		DONTMOVEHERE
+		OUTLINE 465,58  509,58  509,74  465,74
+		LOC 500,66
+		PICTS 1,0,0 9,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL dt GLOBAL
+myturn GLOBAL
+{ dd " 1 1 1 1 1 1 " GREPSTR 50 *  crv =
+ ME co =
+"@500,66 That will give you a score of " crv ITOA & LOCALMSG
+} myturn ME GETSPOTSTATE NOT AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 28
+		DONTMOVEHERE
+		OUTLINE 311,89  366,89  366,105  311,105
+		LOC 343,97
+		PICTS 1,0,0 9,0,0 10,0,0 11,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 12,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { yhtz GLOBAL co GLOBAL dd GLOBAL myturn GLOBAL
+crv GLOBAL mysc GLOBAL btt GLOBAL
+{ dd "6" SUBSTR yts =
+   {
+    { "Sorry, you zeroed out your Yahtzee-6 line earlier- you are ineligible for a bonus." LOCALMSG
+    } yts yhtz 0 < AND IF
+    { ")applause " USERNAME " collects a Yahtzee-6 bonus!" & & ROOMMSG
+      "@511,0 Joker rules-- you get to score it on a regular line as well!" LOCALMSG
+       200 mysc += ME GETSPOTSTATE 1 + ME SETSPOTSTATE
+      1 btt = yhtz ++
+    } yts yhtz 0 > AND btt NOT AND IF
+   }
+   { ;yahtzee for the first time, -1 if yts is 0, 1 if yts is 1
+     yts 100 * crv = ME co =
+     "@343,101 This will score you a " crv ITOA & LOCALMSG
+     { "!WARNING: zeroing out this box makes you ineligible for Yahtzee-6 bonuses!" LOCALMSG
+     } crv NOT IF
+   } yhtz IFELSE
+} myturn IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 29
+		DONTMOVEHERE
+		OUTLINE 454,77  483,77  483,101  454,101
+		LOC 491,91
+		PICTS 1,0,0 9,9,0 ENDPICTS
+		SCRIPT
+ON SELECT { ut GLOBAL myturn GLOBAL
+{
+ { "@491,91 You need " 80 ut - ITOA & " more points to get the upper table bonus" & LOCALMSG }
+ { "@491,91 You already have the upper table bonus!" LOCALMSG
+ } ME GETSPOTSTATE NOT IFELSE
+} myturn IF
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 12
+		DONTMOVEHERE
+		OUTLINE 232,140  266,140  266,184  232,184
+		LOC 245,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 11
+		DONTMOVEHERE
+		OUTLINE 184,140  231,140  231,184  184,184
+		LOC 205,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 10
+		DONTMOVEHERE
+		OUTLINE 141,140  184,140  184,184  141,184
+		LOC 164,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 9
+		DONTMOVEHERE
+		OUTLINE 99,140  141,140  141,184  99,184
+		LOC 122,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 8
+		DONTMOVEHERE
+		OUTLINE 58,140  99,140  99,184  58,184
+		LOC 81,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 7
+		DONTMOVEHERE
+		OUTLINE 17,140  58,140  58,184  17,184
+		LOC 40,162
+		PICTS 1,0,0 8,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { myturn GLOBAL
+{ ME GETSPOTSTATE NOT ME SETSPOTSTATE
+} myturn 32 GETSPOTSTATE AND IF
+}
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 31
+		NAME "Start Game"
+		DONTMOVEHERE
+		LOC 459,27
+		SCRIPT
+ON ENTER { { "A game of yahtzee is currently being played- click play to join!" LOCALMSG } ME GETSPOTSTATE WHONAME "." GREPSTR IF
+{ 0 ME SETSPOTSTATE } ME GETSPOTSTATE WHOME == IF
+{ POSX 160 RANDOM 224 + SETPOS } POSY 225 < IF
+ad GLOBAL "" ad =
+"Script by Foxy, ©2003 Graphics by Tybalt & Speck ©2003" STATUSMSG
+"For free distribution only!" LOGMSG
+{ DUP GLOBAL 0 SWAP =
+} [ ref rollt crv mysc ut yhtz plyrs ckbxs myturn co lastroll] FOREACH
+al27 GLOBAL
+{ dt GLOBAL dd GLOBAL lastroll GLOBAL
+  { { EXEC SETSPOTSTATE
+    } lastroll STRTOATOM EXEC FOREACH
+  } lastroll 0 != IF
+    0 dt = [ 0 0 0 0 0 0 ] dd =
+   "[ " lastroll =
+ { dc = dc 6 + GETSPOTSTATE lck =
+  { 6 RANDOM 1 + dv = dv dc SETSPOTSTATE }
+  { dc GETSPOTSTATE dv = } lck NOT IFELSE
+  dv dt += dd dv 1 - GET 1 + dd dv 1 - PUT
+  lastroll "{" + dv ITOA + " " + dc ITOA + " }" + lastroll =
+ } [ 1 2 3 4 5 6 ] FOREACH
+"[ " { ITOA + " " + } dd FOREACH
+" ]" & dd =
+lastroll "]" + lastroll =
+{ "@105,268 )applause !YAHTZEE-6!!" ROOMMSG
+} dd "6" SUBSTR IF
+} al27 DEF
+ al26 GLOBAL
+{ rollt GLOBAL dd GLOBAL dt GLOBAL
+crv GLOBAL 0 crv = co GLOBAL 0 co =
+{ ")dice2" SAY } rollt 6 == IF
+{ 0 cr = rollt --
+ { cr ++
+  { 7 rollt cr + DUP 3 / 3 * - + cr SETSPOTSTATE
+  } cr 6 + GETSPOTSTATE NOT IF
+ } { cr 6 < } WHILE
+ al26 GLOBAL al26 30 ALARMEXEC
+}
+{ al27 GLOBAL al27 EXEC
+} rollt IFELSE
+} al26 DEF
+al24 GLOBAL
+{ plyrs GLOBAL hsc GLOBAL phsc GLOBAL ref GLOBAL
+{  { "@0,100 !Game over!" ROOMMSG
+   { "@100,100 ..and our winner is: " ROOMMSG
+    "@160,160 )applause !" phsc & "!!" & ROOMMSG
+   } hsc IF
+   0 ref = 1 sp =
+ { 0 sp SETSPOTSTATE sp ++ } { sp 33 < } WHILE
+{ ";ź5" SAY } 60 ALARMEXEC
+  } plyrs "." GREPSTR NOT IF
+} ref IF
+} al24 DEF
+al25 GLOBAL
+{ plyrs GLOBAL al25 GLOBAL al24 GLOBAL
+plyrs "^-([0-9]+)-(.*)$" GREPSTR POP
+"$1" GREPSUB cp = "$2" GREPSUB oth =
+{ oth GREPSUB plyrs = plyrs "^-([0-9]+)-(.*)$" GREPSTR POP
+   "$1" GREPSUB cp = "$2" GREPSUB oth =
+} { cp ATOI WHONAME "." GREPSTR NOT plyrs "" == NOT AND } WHILE
+{ "@" cp ATOI WHOPOS ITOA SWAP ITOA " " & SWAP & & cp ATOI WHONAME " is up!" & & ROOMMSG
+  ";ź3" cp & cp ATOI PRIVATEMSG
+  oth "-" & cp & "-" & plyrs =
+}
+{ al24 30 ALARMEXEC
+} plyrs "" == NOT IFELSE
+} al25 DEF
+}
+ON SELECT { ref GLOBAL plyrs GLOBAL ad GLOBAL hsc GLOBAL phsc GLOBAL
+{ { "A game is currently in session. Click play to join." LOCALMSG }
+  { "Resetting game, click again to start a new one." LOCALMSG
+    0 ME SETSPOTSTATE ";ź5" SAY
+   { cr ++ 0 cr SETSPOTSTATE } { cr 29 < } WHILE
+  } ME GETSPOTSTATE WHONAME "." GREPSTR IFELSE
+}
+{ WHOME ME SETSPOTSTATE 1 ref = "" plyrs = "-" ad = 0 hsc = "" phsc =
+ USERNAME " has started a game of Yahtzee-6! Click play to join!" & ROOMMSG
+ "@511,0" USERNAME & ", click the roll button to start play after everyone joins." & LOCALMSG
+} ME GETSPOTSTATE IFELSE
+}
+ON INCHAT { ref GLOBAL plyrs GLOBAL phsc GLOBAL hsc GLOBAL
+{
+ { DUP GLOBAL 0 SWAP =
+ } [ ref rollt crv mysc ut yhtz plyrs ckbxs myturn co phsc hsc btt lastroll] FOREACH
+ "" plyrs =
+} CHATSTR ";ź5" == IF
+{ 0 ref = "" plyrs = "" phsc = 0 hsc =
+} ref WHOME ME GETSPOTSTATE <> AND IF
+;26 inchat
+ mysc GLOBAL ckbxs GLOBAL ut GLOBAL yhtz GLOBAL
+rollt GLOBAL myturn GLOBAL co GLOBAL dd GLOBAL dt GLOBAL
+{ { 0 SWAP SETSPOTSTATE } [ 7 8 9 10 11 12] FOREACH
+ 1 myturn = 13 sp = ckbxs tckbxs =
+{ tckbxs DUP 2 / 2 * - sp SETSPOTSTATE
+  2 tckbxs /= sp ++
+} { sp 28 < } WHILE
+{ 1 28 SETSPOTSTATE
+{ yhtz 28 SETSPOTSTATE } yhtz 1 > IF
+}
+{ 0 28 SETSPOTSTATE } yhtz IFELSE
+0 32 SETSPOTSTATE 0 crv = 0 co =
+"[]" dd = 0 dt =
+ut 80 >= 29 SETSPOTSTATE
+{ 0 SWAP SETSPOTSTATE } [ 1 2 3 4 5 6 ] FOREACH
+} ";ź3" WHOME ITOA & CHATSTR == IF
+;25 inchat
+ ref GLOBAL plyrs GLOBAL ad GLOBAL
+mysc GLOBAL ckbxs GLOBAL ut GLOBAL yhtz GLOBAL
+plyrs GLOBAL hsc GLOBAL phsc GLOBAL al25 GLOBAL
+ad "." GREPSTR stt =
+{ "-" WHOCHAT ITOA & "-" & ad =
+ { "You're already in the game, " WHOCHAT WHONAME &
+   WHOCHAT PRIVATEMSG
+ }
+ { WHOCHAT WHONAME " has joined the game!" & ROOMMSG
+  ";ź2" WHOCHAT ITOA & WHOCHAT PRIVATEMSG
+  ad plyrs & plyrs =
+ } plyrs ad SUBSTR IFELSE
+{ "" ad = } stt NOT IF
+} CHATSTR ";ź1" == ref AND IF
+{ ;initialize variables to play
+0 mysc = 0 ckbxs = 0 ut = 0 yhtz =
+} CHATSTR ";ź2" WHOME ITOA & == IF
+{ al25 90 ALARMEXEC
+} ";ź3" CHATSTR == ref AND IF
+{ "-$1-" GREPSUB pq =
+  "$2" GREPSUB ATOI ps =
+  ")applause !" "$1" GREPSUB ATOI WHONAME " has finished with a final score of " & &
+  "$2!" GREPSUB &  ROOMMSG
+   { "@150,0 !New high score for the game!" ROOMMSG
+    "$1" GREPSUB ATOI WHONAME phsc = ps hsc =
+   } ps hsc > IF
+  plyrs "^(.*)" pq & "(.*)$" & GREPSTR POP
+  "$1$2" GREPSUB plyrs =
+  al24 GLOBAL al24 60 ALARMEXEC al25 120 ALARMEXEC
+} CHATSTR "^;ź4([0-9]+)-([0-9]+)$" GREPSTR ref AND IF
+{ { "$1$2" GREPSUB plyrs =
+    WHOCHAT WHONAME " has left the game." & ROOMMSG
+{ al25 EXEC } "$2" GREPSUB "" == IF
+  } plyrs "^(.*)-" WHOCHAT ITOA "-(.*)$" & & GREPSTR IF
+} CHATSTR ";ź6" == ref AND IF
+}
+ON OUTCHAT { { "" CHATSTR = } CHATSTR "^;ź" GREPSTR IF
+ ref GLOBAL plyrs GLOBAL al25 GLOBAL
+ { "" CHATSTR =
+  plyrs "^(.*)-[0-9+]-$" GREPSTR POP
+  "$1" GREPSUB plyrs = al25 25 ALARMEXEC
+ } ref CHATSTR "player drop" == AND IF
+ { "" CHATSTR = plyrs tp = 0 ps =
+   "Current players:" LOGMSG
+   { ps ++ ps ITOA ". " & "$1" GREPSUB ATOI WHONAME & LOGMSG
+     "$2" GREPSUB tp =
+   } { tp "^-([0-9]+)-(.*)$" GREPSTR } WHILE
+ } ref CHATSTR "player list" == AND IF
+}
+ON LEAVE { ";ź6" SAY }
+		ENDSCRIPT
+		ENDSPOT
+	SPOT
+		ID 32
+		NAME "Start - Play - Roll - Quit - Instructions"
+		DONTMOVEHERE
+		OUTLINE 303,140  504,140  504,184  303,184
+		LOC 392,156
+		PICTS 13,79,-39 13,98,-39 13,117,-39 13,136,-39 1,0,0 ENDPICTS
+		SCRIPT
+ON SELECT { MOUSEPOS POP ys =
+0 ss =
+{ ys < ss += } [ 341 383 423 464 ] FOREACH
+[
+;"Start"
+{31 SELECT}
+;"Play"
+ { myturn GLOBAL btt GLOBAL lastroll GLOBAL
+ { co GLOBAL crv GLOBAL mysc GLOBAL ut GLOBAL ckbxs GLOBAL
+    dd GLOBAL yhtz GLOBAL
+  { crv mysc +=
+    0 btt =
+    { { "@491,91 !UPPER TABLE BONUS!" ROOMMSG
+        50 mysc +=
+      } ut 80 < crv ut + 80 >= AND IF
+      crv ut +=
+    } co 19 < IF
+    "I have a score of " mysc ITOA & SAY
+    { 1 co SETSPOTSTATE } co 28 < IF
+    { 1 co SETSPOTSTATE dd "6" SUBSTR 2 * 1 - yhtz =
+    } co 28 == yhtz NOT AND IF
+    12 cs = 0 ckbxs = 1 vl =
+    { cs ++ cs GETSPOTSTATE ckd = { 1 ckd = } cs co == IF
+      { vl ckbxs += } ckd IF 2 vl *=
+    } { cs 27 < } WHILE
+   0 myturn =
+   { ";ź3" SAY }
+   { ; { 50 mysc += } ut 80 > IF
+      ";ź4" WHOME ITOA & "-" & mysc ITOA & SAY
+    { DUP GLOBAL 0 SWAP =
+    } [ rollt crv mysc ut yhtz ckbxs myturn co btt ] FOREACH
+   } ckbxs 32767 < yhtz NOT OR IFELSE
+ } co IF
+ }
+ { ";ź1" SAY "dice2" SOUND } myturn IFELSE
+}
+;"Roll"
+ { ref GLOBAL ad GLOBAL rollt GLOBAL crv GLOBAL myturn GLOBAL al25 GLOBAL
+{ "" ad = al25 EXEC }
+{ { { ME GETSPOTSTATE 1 + ME SETSPOTSTATE
+     6 rollt = 0 crv =
+     al26 GLOBAL al26 EXEC
+    }ME GETSPOTSTATE 4 < IF
+  } myturn IF
+} ref ad ".." GREPSTR AND IFELSE
+}
+;"Quit"
+ { ref GLOBAL ";ź6" SAY
+{ { DUP GLOBAL 0 SWAP =
+  } [ rollt crv mysc ut yhtz ckbxs myturn co btt lastroll] FOREACH
+}
+{";ź5" WHOME PRIVATEMSG } ref IFELSE
+}
+;"Instructions"
+ {
+"Instructions are in your log" STATUSMSG
+{ LOGMSG } [
+"" "***YAHTZEE 6 RULES***" ""
+"Six dice, four rolls!"
+"Upper Table, Triples, Quads, Short & Full Straights, & Chance:"
+"  --all qualify the same as regular Yahtzee"
+"Yahtzee is now 6 of a kind"
+"Pents is five of a kind"
+"Six Straight is 1, 2, 3, 4, 5, and 6, in any order"
+"Full House is 2 of a kind and 4 of a kind"
+"Half House is 3 of a kind and 3 of a kind"
+"Upper Table Bonus is fifty points when you score eighty in the upper table"
+"Check the board for other score changes!"
+"" "***General Play***" ""
+"To start a Yahtzee game, one person clicks on the start game button and becomes the referee."
+"Everyone who wants to play- including the referee- clicks on the Play button to join the game."
+"When everyone has joined, the referee clicks the Roll button to start play."
+"Anyone can join at any time by clicking play."
+"Anyone who wants to quit can click the quit button to do so."
+"Anyone who leaves the room automatically quits!"
+"If the referee leaves the room, the game is over!"
+"Click on the start game button to reset the game if that happens."
+"When play starts, the person whose turn it is clicks roll to roll for the first time and get their dice."
+"You lock and unlock the dice by clicking on them, locked dice are marked."
+"Click on the score sheet in the blank spot you want to score in, or click roll up to thrice more."
+"When you click on the score sheet, it tells you what you'll score with that option. If you like it, click Play to score that and finish your turn."
+"Clicking on the Upper Table Bonus Status box tells you how many points you need to get that bonus"
+"Scoring YAHTZEES- you score your first yahtzee the same way you score other scores, by clicking on yahtzee and then play. Score Yahtzee bonuses automatically by first clicking on Yahtzee when you roll one."
+"When someone fills out their score card, they automatically give their final score."
+"Stick around after you're through- the referee remembers the highest score, and will announce it when everyone finishes!"
+"Players can click play to rejoin an ongoing game after they finish. In that case the game continues until everyone either quits or finishes their game."
+"" "***Referee Commands" ""
+"\x22Player Drop\x22 removes the current player from play and goes to the next one"
+"\x22Player List\x22 produces a list in your log of all current players"
+"NOTE: it is highly recommended that the referee have the new palace client!"
+] FOREACH
+}
+] ss GET EXEC
+		ENDSCRIPT
+		ENDSPOT
+	DOOR
+		ID 32
+		DONTMOVEHERE
+		DEST 126
+		OUTLINE 4,354  62,354  62,380  4,380
+		LOC 33,366
+		PICTS 17,0,0 ENDPICTS
+		ENDDOOR
+	DOOR
+		ID 33
+		DONTMOVEHERE
+		DEST 269
+		OUTLINE 448,354  508,354  508,379  448,379
+		LOC 480,368
+		PICTS 18,0,0 ENDPICTS
+		SCRIPT
+ON INCHAT { nDoIt GLOBAL nDoIt EXEC }
+ON ENTER { { CLEARLOOSEPROPS PAINTCLEAR } NBRROOMUSERS 2 < IF }
+		ENDSCRIPT
+		ENDDOOR
+	ENDROOM
+
+
+-->
 
 
 
