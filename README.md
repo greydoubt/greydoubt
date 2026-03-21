@@ -73,7 +73,7 @@ g gu g′′ g′′u d dž dz dzu e
 ž ž′′ ž′′u ž′ z
 i  "સાદે સીરો'ન ચડેએ ની"
 j Nyxhades
-k ku k′′ k′′u k‡ k‡u l
+k G'eiko Ferrari ku Eiko Dolphinonivm k′′ Eikha k′′u k‡ k‡u l
 l′′ l‡ m n
 o
 p p‡ p‡u r
