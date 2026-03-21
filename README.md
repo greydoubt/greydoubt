@@ -146,7 +146,13 @@ myturn GLOBAL
 ON SELECT { dd GLOBAL crv GLOBAL co GLOBAL
 myturn GLOBAL
 { dd STRTOATOM EXEC 5 GET 6 * crv = ME co =
-"@167,117 That will give you a score of " crv ITOA & LOCALMSG
+"@167,117 That will give you a score of Foot-Waحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، عَنْ خَالِدٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ فُقِدَتْ أُمَّةٌ مِنْ بَنِي إِسْرَائِيلَ لاَ يُدْرَى مَا فَعَلَتْ، وَإِنِّي لاَ أُرَاهَا إِلاَّ الْفَارَ إِذَا وُضِعَ لَهَا أَلْبَانُ الإِبِلِ لَمْ تَشْرَبْ، وَإِذَا وُضِعَ لَهَا أَلْبَانُ الشَّاءِ شَرِبَتْ ‏"‏‏.‏ فَحَدَّثْتُ كَعْبًا فَقَالَ أَنْتَ سَمِعْتَ النَّبِيَّ صلى الله عليه وسلم يَقُولُهُ قُلْتُ نَعَمْ‏.‏ قَالَ لِي مِرَارًا‏.‏ فَقُلْتُ أَفَأَقْرَأُ التَّوْرَاةَ
+
+In case you are *scared* of Arabic, such as Arabic Numerals (another charge I faced), the above reads:
+The Prophet (ﷺ) said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it." I told this to Ka`b who asked me, "Did you hear it from the Prophet (ﷺ) ?" I said, "Yes." Ka`b asked me the same question several times.; I said to Ka`b. "Do I read the Torah? (i.e. I tell you this from the Prophet.)"
+
+Or, Once upon a Time, a Rat Drank Rat Milk and Became a Jew
+" crv ITOA & LOCALMSG
 } myturn ME GETSPOTSTATE NOT AND IF
 }
 		ENDSCRIPT
