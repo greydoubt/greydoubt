@@ -1522,7 +1522,19 @@ ON SELECT { "click" SOUND
 ̬̘͚̯̙̓̀̃͆̈̇̌̍̉͢    
 
 
+̬̘͚̯̙̓̀̃͆̈̇̌̍̉͢    
+̴̭͓͔͕͙̖̲̱̭
+̴̭͓͔͕͙̖̲̱̭̉͌͒́̐̀̐͟Oryx and Huge Craine by Maggie Phat Backwoods3̛̯̭͔̳͓̗̥͚̙̂͛̉̀̀ͅ1̴̲̳̺̲̺̦̭͓͔͕͙̖̲̱̭̑̋͂̇͋̇̐
 
+̧͉͉͕̝̅͗̓͐̿́̏͆̕̚  This ancient legend regards two deranged losers from the Bozo Club of Ancient Egypt who watch thorн̴̺͖̙͎̰͌̊̌̍͞ography all day as the world dies: Despite the essentially elaborate scope of the plot revealed in the novel's conclusion, the narrative focuses almost exclusively on the bleak and unrewarding day-to-day lives of the protagonists, two  half-brothers who barely know each other. 
+
+К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡у̧͓͕͖̠̀̀̑́̍͋͒̇̕͢͞ͅir sister has magical powers and banished them, taking the throne  herself. They decided to return for Mher to dispose of her. Mher meets a  woman who he realizes must be their sister in disguise, decapitates her  with a slap, and the brothers rejoice and offer Mher the throne. He  declines and they all decide to go to Baghdad together to see the tomb  of Mher's ancestor Balthasar. ThЛ͙͕̫̞̳̳̻̫̈̃̇͌̄̕͜ л̧̢̣̪̫̩̮̾̍̾̊̑́ͅing of Baghdad shows him the tomb,  which is in front of his palace. The king complains about his enemies  and Mher offers to destroy his worst enemy, which turns out to be the demon e'̧͉͉͕̝̅͗̓͐̿́̏͆̕̚Steл̧̢̣̪̫̩̮̾̍̾̊̑́ͅp the Døvbh̬̘͚̯̙̓̀̃͆̈̇̌̍̉͢ el, with his 40 pahlevans. Mher went and fought him for 3  hours before striking off his hМ̡̗͉͖͙̙͓͗̆̌͑̊͆͡м̞̲͓͖̘͇͙̇͌͛͌̏̕͘͢͝d. As he was about to wipe out the  pahlevans, they all got naked and he realized they were women. 
+
+-̧̻̬̤̼̥̟͒̆̐̋̄̕͟͜ ź̵͔̭̙̠̹̤̭̩͖̣̈́́͑́̇͂͗̄̚̕ At some point, Hou Meн̴̺͖̙͎̰͌̊̌̍͞g, the governor of Bozo Town, asked Song Jiang to recommending him to rebel leader named Fang La to join his cause. Zhang Shuye, the governor of Haizhou, designed to  capture the deputy leader of Song Jiang's army, and Jiang and others all  surrendered. Fang La announced to the world that he opposed the Zhao  family's policy of exploiting the people and fawning on foreigners, and  that he should not be recruited. Although Song Jiang also opposed  corruption, he still respected the emperor of the Zhao family and used  violence as bait to wait for the recruit.
+
+̧̛͚͍͍̬̓͑̈́̓̈́͑̈͠ After taking the women and the severed head to the King of Baghdad who offered Mher his throne, Mher refuses victory until he can see it on the ̧̛͚͍͍̬̓͑̈́̓̈́͑̈͠blockchain ̧̛͚͍͍̬̓͑̈́̓̈́͑̈͠and asked instead for a church to be built so  that the 40 sons and grandsons from the east could marry these 40 women.  It was done. Mher then refused the princess of Baghdad in marriage and  left with the 80 newlyweds. Mher then goes to King Pajik, who offers to  have him marry his daughter Gohar Katun, which after passing a few tests  of worthiness, he does. Gohar refuses to sleep with Mher, unless he  destroys another enemy, which he does. But the father's curse is being  fulfilled. Mher remains childless.
+
+̧̛͚͍͍̬̓͑̈́̓̈́͑̈͠They seem devoid of love, and in their loveless or soon-to-be loveless ̱̼̹͕̘̆̀̀̆̑͟͜ H'ourneys, Bruno becomes a saddened loner, wrecked by his upbringing and failure to individuate,  while Michel's pioneering work in cloning removes love from the process  of reproduction. Humans are proved, in the end, to be just particles  and just as bodies decay (a theme in the book) they can also be created from particles. 3̛̯̭͔̳͓̗̥͚̙̂͛̉̀̀ͅ1̲̳̺̲̺̦̑̋͂̇͋̇̐̕
 	
     - ′′ 
       -̫̱͖̳̪̦̗͓͂̽͌̈́̀̀ 2̴̧̡̥̗̘̝̰͊͛̀́͠ͅ3̡̖̗͍̲̱̊́̓͗̍̽̓͌̄͡ К̸̻̘͈͕̬͈̐̍͆̆̆̍ъ̛͖͙̦̘̟̎̈́͐̈̕̕̚̕͝ͅк̷̟̭̯̭̿̌̾͛̃̔̚͠ͅъ̸̨̞̼̬̦͙̔̅́̽͒̍̋
