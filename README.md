@@ -1593,7 +1593,13 @@ ON SELECT { "click" SOUND
     - u w,u f f
     
     - fḣ — kh x khu x° kh′′ χ kh′′u χ° kh′ ḥ
-    
+
+
+<img width="673" height="599" alt="HEFJQaGbUAA02X2" src="https://github.com/user-attachments/assets/a5d73523-fdc4-420c-9c93-78dcb532ae36" />
+
+https://steamcommunity.com/id/stacystyxwitch/
+
+	
     - ts͡ c ts͡u c° ts͡ḣ c̣ ch čʹ ch′′ č chḣ č̣ sh š sh′′ ŝ sh′′u ŝ° shḣ ṣ̂ shḣu ŝ°̣ shch šʹ
     
 ̱̼̹͕̘̆̀̀̆̑͟͜    -̨̼̦͕̳̮͚̊̔́͌̍̽̍ k̻͍̜͈̭̬̺̖̖̋̈́̓̔̍̈́ͅw̦͕̭͇͙͕̿̂͊̒̐̃̋͜͢
