@@ -984,6 +984,29 @@ t t tḣ ṭ
 68 Ӏу Ӏу  
 69 Unkraine Huge Craine ꑭ  
 
+```
+63 Ь ь  ьlyat
+
+```
+64 Э э   эlyat эlyatэlyatэlyatэ
+
+```
+65 Ю ю юlyat юlyatюю юlyatt
+
+```
+66 Я я я яlyat  siяя Я'atlyatяly
+
+```
+67 Ӏ Ӏ lyat lyat
+
+```
+68 Ӏу Ӏу  lyat  Ӏу  lyat  Ӏу  l Ӏу  lyat  yat 
+
+```
+69 Unkraine Huge Craine ꑭ  
+
+
+
 ISO 9 KNAB 1995(1.0) 2003(2.0)
 
 t‡u ţw u u
