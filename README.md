@@ -1179,6 +1179,20 @@ If the sour grapes die on the vine, it will be said, The Sweet Sadism of Shiva N
 
     - 26 КӀу кӀу 
 
+``` kikimora numerals for productivity 
+    - 23Къ.къ ъDoofus
+
+    - 24Къу.къуъOffice Doofus 
+
+    - 25 КӀ кӀOO`фice ъDoofus
+
+	- 2005 miКrӀONic Office Doofus кӀOO`фice ъDoofus 
+
+ 	— 39.13 ТӀтӀ રો'નгъу тоонт нютаг varzesh3ъDoofus 
+
+    - 26 КӀу кӀу ъЛoofus
+```
+
     - 27 Л л
 
     - 28 Лълъ
