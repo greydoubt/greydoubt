@@ -4,11 +4,20 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sator-arepo-tenet-opera-rotas&theme=dark&background=000000)](https://git.io/streak-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greydoubt&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+<img width="1231" height="1089" alt="Screenshot 2026-03-28 at 04 39 19" src="https://github.com/user-attachments/assets/a8c16046-97d0-482d-99e6-fe3f010027e2" />
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greydoubt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sator-arepo-tenet-opera-rotas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 ł`જોહરીiorno!!! My name is łSO 9 KNAB 1995(1.0) エ🦂ミ~ 🍒2003(2.0) #エメラダ  #🦂
 
 Lab2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡у̧͓͕͖̠̀̀̑́̍͋͒̇̕͢͞ͅ к̸̡̞̪̞̣̦̤͔̙̂̒͛̽̈̂̋̆ͅӀ̶̨̩̫̞͙̙̳̖̼͙͛̂̈̓̄͌̅͆͘у̸̛̱̫̟̩̱̥͓͗͌̔͋͗ bu L2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡bu Thrake Volcano Lab 2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡у̧͓͕͖̠̀̀̑́̍͋͒̇̕͢͞ͅ к̸̡̞̪̞̣̦̤͔̙̂̒͛̽̈̂̋̆ͅL2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡bub2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕͖̫͙͖͌̀̈́̎͋̈̈́̋͢͟Ӏ̴̢̨̦̩̮̹̹̑͊́̔̈̇̈́͢͡у̧͓͕͖̠̀̀̑́̍͋͒̇̕͢͞ͅ к̸̡̞̪̞̣̦̤͔̙̂̒͛̽̈̂̋̆ͅӀ̶̨̩̫̞͙̙̳̖̼͙͛̂̈̓̄͌̅͆͘у̸̛̱̫̟̩̱̥͓͗͌̔͋͗ Lavos  labubuӀ̶̨̩̫̞͙̙̳̖̼͙͛̂̈̓̄͌̅͆͘у̸̛̱̫̟̩̱̥͓͗͌̔͋͗
+
+
+
+<img width="3069" height="1683" alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
 
 
 
