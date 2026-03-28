@@ -1,6 +1,6 @@
 #エメラダ    ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ    #🦂#🦂🦂 #🦂🦂🦂#🦂🦂🦂🦂 #🦂#̱̼̹͕̘̆̀̀̆̑͟͜    🦂-̨̼̦͕̳̮͚̊̔́͌̍̽̍ 🦂k̻͍̜͈̭̬̺̖̖̋̈́̓̔̍̈́ͅw̦͕̭͇͙͕̿̂͊̒̐̃̋͜͢ ͚̭̺̗̼͍̗̱̌̐͒̒̂̕ ̨̢̛̗̞̩̫̹̜̟̺̉̈̽̉̏̌͌͞ ̦̻͈̠͎̣́̀̔͊̅̍͡͡     ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ    🦂#エメラダ 🦂#🦂#🦂#🦂#🦂#🦂#🦂#  ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ   
 <!-- -->
-<center>🦂<img align="center" src="https://github-readme-stats.vercel.app/api?username=greydoubt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=sator-arepo-tenet-opera-rotas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<center>🦂<img align="center" src="https://github-readme-stats.vercel.app/api?username=greydoubt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=sator-arepo-tenet-opera-rotas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A8A3A7&bg_color=0,000000,130F40" alt="my Github Stats"/></center>
 
 
 <img width="3069" height="1683" alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
@@ -12,8 +12,9 @@
 <img width="1231" height="1089" alt="Screenshot 2026-03-28 at 04 39 19" src="https://github.com/user-attachments/assets/a8c16046-97d0-482d-99e6-fe3f010027e2" />
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greydoubt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sator-arepo-tenet-opera-rotas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</center>
+<center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greydoubt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sator-arepo-tenet-opera-rotas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 
 
