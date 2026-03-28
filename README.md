@@ -33,7 +33,7 @@ Lab2̶̢̡͍͖̘̫̎͗̀̊̋̌͟6̨̢̻̯͙̼͎͈͆͛̌̃͆͘̕͢͢ К̴̨͍̖͕
 
 
 <img width="3069" height="1683" alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
-
+```
 
 
 <!-- 
