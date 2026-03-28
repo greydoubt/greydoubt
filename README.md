@@ -698,7 +698,7 @@ ON SELECT { MOUSEPOS POP ys =
 "Stick around after you're through- the referee remembers the highest score, and will announce it when everyone finishes!"
 "Players can click play to rejoin an ongoing game after they finish. In that case the game continues until everyone either quits or finishes their game."
 "" "***Referee Commands" ""
-"\x22Player Drop\x22 removes the current player from play and goes to the next one"
+"\x22Player Drop\x22 removes the current player from play and goes to the next one ̨̰̙̫̫̩̱̩̟́͋̽̈͊̄̓͠ ત̶̼̬̗̬̻͔̟͎̬̤̐́̀́̀͆͠િ̢̡̬̹͔͖͍̼̍͌̓͗͝ન̴̩̙̘͕̠̗͒̃̍̂͂͂͒̚ક̵̩͕̹̺̥̗̜͒͂̎͋̇͋́̈ા̧̱͓͇̻͋̒̈̂̊͗͒̊͘͠ ઔ̷̫̼̖͚͛̌̈̾̒͟ક̨̫̘͖̺̳͚̺̥͈͗̓̑͒͊̏̈́̈́̚͡ા̣̫͚͍̳̣̉̋̃̆̂̔̾͋͘ત̷̨̢̛̱̩͈̦̙̙̈́̍̅̊ સ̨͓̤̩̰̙̖̠̟̿̉̀̉̚̕̚͟ી̷̛̭̜͉̤̼̯̥̙͙͐̋͋̿̂͘͢͞͝ પ̴̢̫̫͐̇̈́̓̑̾͢͜͝હ̶̮̪͇͎̮̥̜̄́́͋͒̎̕̕͠͞"
 "\x22Player List\x22 produces a list in your log of all current players"
 "NOTE: it is highly recommended that the referee have the new palace client!"
 ] FOREACH
