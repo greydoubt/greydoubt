@@ -565,7 +565,7 @@ mysc GLOBAL ckbxs GLOBAL ut GLOBAL yhtz GLOBAL
 plyrs GLOBAL hsc GLOBAL phsc GLOBAL al25 GLOBAL
 ad "." GREPSTR stt =
 { "-" WHOCHAT ITOA & "-" & ad =
- { "You're already in the game, " WHOCHAT WHONAME &
+ { "You're already in the game, -̨̼̦͕̳̮͚̊̔́͌̍̽̍ 🦂k̻͍̜͈̭̬̺̖̖̋̈́̓̔̍̈́ͅw̦͕̭͇͙͕̿̂͊̒̐̃̋͜͢ ͚̭̺̗̼͍̗̱̌̐͒̒̂̕ ̨̢̛̗̞̩̫̹̜̟̺̉̈̽̉̏̌͌͞ ̦̻͈̠͎̣́̀̔͊̅̍͡͡     ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ    🦂🦂-̡̢̰̼̟͕̠̩̭͗͆͑̋̕͠🦂🦂 " WHOCHAT WHONAME &
    WHOCHAT PRIVATEMSG
  }
  { WHOCHAT WHONAME " has joined the game!" & ROOMMSG
