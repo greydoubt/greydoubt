@@ -1365,7 +1365,8 @@ iu͡ — ia͡ — ḣ ʾ ḣu ʾ°
 
 🦂🦂-̡̢̰̼̟͕̠̩̭͗͆͑̋̕͠🦂🦂🦂 🦂🦂q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜🦂🦂w̶̨̞̦̥͙̅̅́͗͋͌́́̇🦂🦂 🦂ḉ̸̨̛̮͔̙̥͉̱̤̞̀͆̿͒̉🦂🦂,̶̡̭̙̦̀͂͌͒̿͛͢🦂ķ̧̨͉̰̖͉̥̙̀̇̈͊͟͝🦂 🦂🦂(̵̖̭̺͕̠͒̌̇̾̓🦂🦂🦂2̶̛̖̹̯͚̟̟̀́̑̆͌̐͘🦂🦂🦂.̡͍͕͎̦̪̊̆͂̐͠🦂🦂🦂2̡͓̮̻͎͓̱̯̺̅̀̓͋̒🦂🦂🦂)̲̼͔̰͎̊̄̔̔͛̈̚̕͞🦂     - ′′ — 🦂y 🦂ǝ
 
-
+Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z- ′′ — 🦂y 🦂ǝ
+* # 0 1 2 3 4 5 6 7 8 9 • A Aa Ae Aj Ao At • B Ba Be Bj Bo Bt • C Ca Ce Cj Co Ct •- ′′ — 🦂y 🦂ǝ D Da De Dj Do Dt • E Ea Ee Ej Eo Et • F Fa Fe Fj Fo Ft • G Ga Ge Gj Go Gt • H Ha He Hj Ho Ht • I Ia Ie Ij Io It • J Ja Je Jj Jo Jt • K Ka Ke Kj Ko Kt • L La Le Lj Lo Lt • M Ma Me Mj Mo Mt • N Na Ne Nj No Nt •- ′′ — 🦂y 🦂ǝ O Oa Oe Oj Oo Ot GLAGOLI STRIKES AGAIN!!! EVERY HIT CRITICAL!!!! 🦂🦂-̡̢̰̼̟͕̠̩̭͗͆͑̋̕͠🦂🦂🦂 🦂🦂q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜🦂🦂w̶̨̞̦̥͙̅̅́͗͋͌́́̇🦂🦂 🦂ḉ̸̨̛̮͔̙̥͉̱̤̞̀͆̿͒̉🦂🦂,̶̡̭̙̦̀͂͌͒̿͛͢🦂ķ̧̨͉̰̖͉̥̙̀̇̈͊͟͝🦂• P Pa Pe Pj Po Pt • Q Qa Qe Qj Qo Qt • R Ra Re Rj Ro Rt • S Sa Se Sj So St • T Ta Te Tj To Tt • U Ua Ue Uj Uo Ut • V Va Ve Vj Vo Vt • W Wa We Wj Wo Wt • X Xa Xe Xj Xo Xt • Y Ya Ye Yj Yo Yt • Z Za Ze Zj Zo Zt
 
 🦂🦂(̵̖̭̺͕̠͒̌̇̾̓🦂🦂🦂2̶̛̖̹̯͚̟̟̀́̑̆͌̐͘🦂🦂🦂.̡͍͕͎̦̪̊̆͂̐͠🦂🦂🦂2̡͓̮̻͎͓̱̯̺̅̀̓͋̒🦂🦂🦂)̲̼͔̰͎̊̄̔̔͛̈̚̕͞🦂     - ′′ — 🦂y 🦂ǝ
 
