@@ -18,6 +18,8 @@ $ milady masheen go gucci/burr mi/lady!!!
 
 
 
+🦂#エメラダ 🦂#🦂#🦂#🦂#🦂#🦂#🦂#  ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ  TF-bAkA > ͚̭̺̗̼͍̗̱̌̐͒̒̂̕ ̨̢̛̗̞̩̫̹̜̟̺̉̈̽̉̏̌͌͞ ̦̻͈̠͎̣́̀̔͊̅̍͡͡     ̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ  Task Force Baka
+
 
 BASSLINE:
 
