@@ -1495,7 +1495,7 @@ Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z- ′′ 
 ✶⭑
 
 
-
+֍ 
 
 GLAGOLI # raggas.js
 
@@ -1529,7 +1529,7 @@ $ EVERY HIT CRITICAL!!!!
 
 ```.GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ  q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES AGAIN!!!1three!!! ```
 
-
+ ☦︎
 
 ```¿ ¡ ¿ ¡ ¿ ¡¡¡¿ ¡¡¡¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER! METEORA 9999 EVERY HIT CRITICAL !!! ```
 
@@ -1538,7 +1538,7 @@ $ EVERY HIT CRITICAL!!!!
 
 🦂🦂(̵̖̭̺͕̠͒̌̇̾̓🦂🦂🦂2̶̛̖̹̯͚̟̟̀́̑̆͌̐͘🦂🦂🦂.̡͍͕͎̦̪̊̆͂̐͠🦂🦂🦂2̡͓̮̻͎͓̱̯̺̅̀̓͋̒🦂🦂🦂)̲̼͔̰͎̊̄̔̔͛̈̚̕͞🦂     - ′′ — 🦂y 🦂ǝ
 
-
+|
 
 phat lewt bootie binches🦂phat lewt bootie binches🦂phat lewt bootie binches🦂phat lewt bootie binches🦂phat lewt bootie binches🦂phat lewt bootie binches
 
