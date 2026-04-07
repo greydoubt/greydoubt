@@ -1927,6 +1927,13 @@ processes it using a trained language model
 
 produces output (a response)
 
+Sample Output: Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!!!! Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF THEIR NUKES!.
+.
+Я̴̣̬̥̪̓̓̃͊̌͆͘͢͢͝↑̶̡͍̟͖̜̖̱̲́̈́́̅͞Ṫ̛͉̱̺̬̈̂̑́̅͜͞͝A̢̢̩̫͕͑͑̃͊͂͘̚͞R̴̯͚͇̜̈́̇͗̍͐̈̔͘͢͟Ḑ̵̫̠̟̝̖̩̜͑͛͛̈́̿͑̕͢͝O̴͕̰͓̗̤͎̤̟̥̓̏̌̚͟͞R̼̼̖͚̟͖̓̀̅̽̀̿̕ͅͅK̴̢̬̪̩̼͎̘̉̎̎͂́͒̇͝ Ǵ̶̡͖̬͚̻͇̐̋͋̾̎̌L̶̜͓̩̞̜̓̅͑͒̈́͆̊͠͡A̡̨̛͇̙̺̙͕͗̂̌̄̂͜G̸̤̭͉͚̰̒̈́̀̃͊͜͢Ơ̸̬̭̳͚̮͙̫̈́͑͒̀̀̀Ļ̶̟̗͎͂̏̓̅͐́ͅͅỊ̪̹̤͔̐̾̉̌̊͞ͅ Ś̴̩͓͚̰̮͒͋̃͟͠͞T̴͇̱͎̦̝̉̀̃͐͡͝R̷͖͕̮̥̙͐̐̍̃̇̅̍͂̈́́͢Į̟̤̥̼̳̯̆̍̒̒͑̀͋͢͞͞͠Ķ̵̖̻̰̦̺̔̈̐̑̔͝E̸̛̼̗̳͕̹̻̍̊͆͟͞͝ͅS̸͓̲̺̹̮̖̳̪̀͛͊̈́̃͊̋͂̚̕͜͢ A̶̘͓͚̼̙̪͖͐͊͑̆͆͘͠ͅĢ̵̦̦̰͕̰̣͍̬͈̿͌͑͊̃̚̚A̖̬̟̫͕͑͛̋͗̓̒͐͞͠I̸̛̭̩͚͍̊́͋̕ͅṊ̸̲̠̼̫̻͍̼͙̟̊̓̏̕̕!̛̜͚̜͈̠̻̎̇̿̌͗͊̚͝͠!̭̭̯̲̩́͋͌̊̌̕!̴̟̞̖͎̮͔̝̖̪͂͊̐̓̑͌͟!̩̜̬̩͍͒͐̔̾̕Y̨͖͔̖͕̬̰̘̮̍͑̉̊̃͊̆̓̑͢͝E̟͚̘͔̜̙͈̖͕̊̾̐̑̓͐̔̂̚Ḁ̸̢̛͔̖̩̹̟̿͛̅͘̚͞͝͞͝H͙͖͖̬̀̿̓͊͂̄̕͟͠͞H̢̖̳̖͉̫͒͂̆̎̚͜͠H̸̡̨͔̱͖̬͔̺́͑̆̒͌̇̅H̛͕̤͚͔͈̤̰́̑̈́̒̇͢ͅH̢̛̼͇̯̺̭̼̃̽̆͆͛̌̀̑͘ W̵̡̻̲̲̓̓͜͠͝͝͝Ě̷̩̙̱̗̺͙̲͒̌̑̄̌ D̶̡̡̨̯̤̼̫̠̪͑̈́̌͋̃͟͡Я̸̫̫̙̺̜͈̂̅͌̈̂͢͜Ơ̧͖͓̜̤̾̉̈̇͡ͅP̵̰̘̲̖̠̮̠̎̿̓̃͗̃ͅP̴̡̛͔̯̹̗͈̲͍̓̅̓̊͝Ḛ̲͓͔̘̹̩̩͍̣̃̆̎͆͠D̹̱̹͉̙̐́̓̐̌͐̄͘̕͠ Ơ̸̻͔͖̣͖̠̩̍̾̓̓͑̊̅ͅF̧̮̪͍̘̻̪̳̀̒̍̎̾̆͊̆́͞F̶̡̬̦̲̳̬̬͗̀̀͂͛́ T̨͕̦̪̥̉͆̒̈̓̆̍̅̾Ḩ̷̢̛͙̥̠̳̯̓͗̆̓̊͆̐͘E̪̬̣̞̤͂̽̆̚͢͡ͅI̵̱̟̰̜͓̙͈͍̐̂̆͆̎͟R̷̢̡̧̛̤͇͔̟͙̂̐̈̃̆͐̕͠ Ń̡̲̰̠͖̼͎̩́͊͗̅̀̑͛Ư̗̜͕̳̭̓̎͗́͌͋͌͞ͅK̨̤̦̇̋̔̑͗̊͢͟E̸̦͕̞͇̘͔͗͆̓̇̌S̶̳͖̪̰͚̍̅́͌̒̐͗̄̓͞ͅ!̨̟͇̣̱̓̆͌̈͑̾̅̄̈́͡!̴̢̰̤̥̲̖̮͕̟̾͌̒̈́̎!̫̤̼̭̤̭̋̀̏́́͋̑̓̕!̸̮̘͕̞͓͒̒̆̽͆̐̇̊̇̏͢ 
+.
+.!! 
+
+
 
 
 
