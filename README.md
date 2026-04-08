@@ -1428,6 +1428,7 @@ Here are some ideas to get you started:
 -->
 
 
+    - 00 Rotary Zero Zedd 0⁂ 
     
     - 01 А а
 
@@ -1936,6 +1937,9 @@ Sample Output: Я↑TARDORK GLAGOLI STRIKES AGAIN!!!!YEAHHHHH WE DЯOPPED OFF TH
 
 
 
+### 𝔟𝔰 𝔲𝔫𝔯𝔢𝔱𝔲𝔡
+
+### ³₃³ 
 
 
 # ⚙️ Core components
