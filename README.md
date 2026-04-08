@@ -1194,6 +1194,8 @@ a ā b b v — g ɣ gu g° g′′ ġ g′′u ġ° d d dzh ǯ′ dz ʒ dzu ʒ°
 t t tḣ ṭ  
 
 
+		think 𓆏 
+
 
 		miladyѝ̷̹͙̝̞͓̹̤̟͋͑͂̀͊͌͐͘͢͠   
 
