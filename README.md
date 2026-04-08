@@ -14,7 +14,8 @@ $ milady masheen go gucci/burr mi/lady!!!
 [DEFENSE Я_O_RESPONSE]
 спрасціць
 ачысціць
-структураваць
+структураваць 
+сціць obɐɔıɥɔ ɟo ʎʇısɹǝʌıun прасктур 
 
 …
 
