@@ -1,24 +1,11 @@
 ↺
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=greydoubt&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=greydoubt&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=greydoubt&show_icons=true" />
-</picture>
-
+```
 #IFNDEF
 $ milady masheen go gucci/burr mi/lady!!! 
 
 ↺ ค็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็็ when the amogus is suss that's when the pasta finna buss!!!!
 #ENDEF
-
+```
  ↺↺↺↺↺↺↺
  @꩜ #ж#ж#ж#ж# 。。。。。你的爱就像自来水 ж 我直接从水龙头里喝。。。。。。。#ж#ж#ж#ж#  @꩜
 
