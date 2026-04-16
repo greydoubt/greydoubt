@@ -810,7 +810,7 @@ ON SELECT { MOUSEPOS POP ys =
     dd GLOBAL yhtz GLOBAL
   { crv mysc +=
     0 btt =
-    { { "@491,91 !UPPER TABLE BONUS!" ROOMMSG
+    { { "@491,91 !UPPER TABLE BONUS! SEND PRE-PAYMENT TO: bc1q63llmqp5umkzrgpumjfudh6fwgyf97c46ngc9f" ROOMMSG
         50 mysc +=
       } ut 80 < crv ut + 80 >= AND IF
       crv ut +=
