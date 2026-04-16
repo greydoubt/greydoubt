@@ -1,4 +1,4 @@
-⚓️↺
+⚓️↺ я не ўпэўнена, што яшчэ з’яўляюся сістэмай *?&;2-1^*
 ```
 #IFNDEF
 $ milady masheen go gucci/burr mi/lady!!! 
