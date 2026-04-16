@@ -115,7 +115,30 @@ RAGGA.JS
 
 ```¿ ¡ ¿ ¡ ¿ ¡¡¡¿ ¡¡¡¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER! METEORA 9999 EVERY HIT CRITICAL !!! ```
 
+```
+[Exposed=*]
+interface DecompressionStream {
+  constructor(CompressionFormat format);
+};
+DecompressionStream includes GenericTransformStream;
 
+const ds = new DecompressionStream("gzip");
+const decompressedStream = blob.stream().pipeThrough(ds);
+blobURL = URL.createObjectURL(decompressedStream);
+
+async function* getRandomZeroToTenIntsIterator() {
+    for (let i = 0; i < 10; i++) {
+        await new Promise(resolve => {
+            window.setTimeout(() => {
+                resolve();
+            }, 1000);
+        });
+        yield i;
+    }
+}
+
+iterator = getRandomZeroToTenIntsIterator();
+```
 
 <img width="3069" height="1683" alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
 
