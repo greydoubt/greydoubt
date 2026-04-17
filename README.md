@@ -1,6 +1,45 @@
 # WELCOME TO BLYAT LIST,  BLYATT $ # 
 
 ```
+#!/bin/sh
+
+#GDB=...
+#XSERVER=...
+
+ARGS=$*
+PID=$$
+
+test -z "$GDB" && GDB=gdb
+test -z "$XSERVER" && XSERVER=/usr/bin/Xorg
+
+cat > /tmp/.dbgfile.$PID << HERE
+file $XSERVER
+set confirm off
+set args $ARGS
+handle SIGUSR1 nostop
+handle SIGUSR2 nostop
+handle SIGPIPE nostop
+run
+bt full
+cont
+quit
+HERE
+
+$GDB --quiet --command=/tmp/.dbgfile.$PID &> /tmp/gdb_log.$PID
+
+rm -f /tmp/.dbgfile.$PID
+echo "Log written to: /tmp/gdb_log.$PID"
+
+```
+
+
+
+
+
+```
+
+
+
 root:/usr/src/xc-build# gdb
 XNU gdb 6.3
 
