@@ -1,4 +1,8 @@
-```$ ndisasm MOUNT.COM
+```
+$ ndisasm MOUNT.COM
+```
+
+```
 00000000  BC0004            mov sp,0x400
 00000003  BB4000            mov bx,0x40
 00000006  B44A              mov ah,0x4a
