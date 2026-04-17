@@ -253,13 +253,13 @@ async function* getRandomZeroToTenIntsIterator() {
 iterator = getRandomZeroToTenIntsIterator();
 ```
 
-<img width="3069" height="1683" alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
+<img  alt="Screenshot 2026-03-28 at 04 25 44" src="https://github.com/user-attachments/assets/e88936e9-a7da-4820-b4f3-05ad6285583f" />
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sator-arepo-tenet-opera-rotas&theme=dark&background=000000)](https://git.io/streak-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greydoubt&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-<img width="1231" height="1089" alt="Screenshot 2026-03-28 at 04 39 19" src="https://github.com/user-attachments/assets/a8c16046-97d0-482d-99e6-fe3f010027e2" />
+<img  alt="Screenshot 2026-03-28 at 04 39 19" src="https://github.com/user-attachments/assets/a8c16046-97d0-482d-99e6-fe3f010027e2" />
 
 
 <center>
