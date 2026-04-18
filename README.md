@@ -60,7 +60,7 @@ Program received signal SIGSEGV, Segmentation fault.
 (gdb)
 ```
 
-<img width="1500" height="1567" alt="461299614_3880538118856896_1070815752320714134_n" src="https://github.com/user-attachments/assets/45fd344c-1b43-4c0b-a9fb-d7240af38da8" />
+<img  alt="nyke ferrari bitch" src="https://github.com/user-attachments/assets/45fd344c-1b43-4c0b-a9fb-d7240af38da8" />
 
 
 ## b_lya_t
@@ -70,17 +70,39 @@ Program received signal SIGSEGV, Segmentation fault.
 	
 ## 	list
 	``` - Prints the source around the current frame. When invoked multiple times, it will print the next lines, making it useful for quick code inspection. "list -" prints the source code backwards (starting from the current frame). This is useful to inspect the lines of code that led to an error.```
-##     break / clear ```- break sets a breakpoint. When execution reaches a breakpoint, the debugger will stop the program and return you to the gdb prompt. You can set breakpoints on functions, lines of code, or individual instructions; see the help text for details. clear, naturally, clears a breakpoint.```
-##     step / next ```- step and next allow you to manually advance the program's execution. next runs the program until you reach a different source line; step does the same thing, but also descends into called functions.```
-##     continue ```- continue the program normally until the next breakpoint is hit.```
-##     print ```- Prints the expression. You can specify variable names, registers, and absolute addresses, as well as more complex expressions (help print for details). Variable names have to be resolveable, which means they either have to be local variables within the current stack frame or global variables. Register names start with a $ sign, like print $eax. Addresses are specified as numbers, like print 0xdeadbeef. * Expressions can be fairly complex. For example, if you have a pointer to a structure named foo, print foo will print the memory address that foo points to, print *foo will print the structure being pointed too, and print foo->bar will print the bar member of the foo structure.```
-##     handle ```- Tells the debugger how to handle various signals. The defaults are mostly sensible, but there are two you may wish to change. SIGPIPE is generated when a client dies, which you may not always care about, and SIGUSR1 is generated on VT switch. By default, the debugger will halt the running process when it receives these signals; to change this, say handle SIGPIPE nostop and handle SIGUSR1 nostop. (Note: Don't use handle SIGUSR1 ignore or you can confuse things quite badly---for example, having multiple X servers simultaneously active on the same VT can be very confusing.)```
-    set environment - Sets environment variables. The syntax is set environment name value; don't use an = sign like in bash, it won't do what you expect.```
-##     run ```- Runs the program. If you only specify a program name on the command line (and not a process ID or a core file), gdb will load the program but not start running it until you say so. Arguments to run are passed verbatim to the child process, eg run :0 -verbose -ac.```
-##     kill ```- Kills the program being debugged. Not always useful, you'd often rather say...```
-##     detach ```- which detaches the debugger from the running program, which can then shut down gracefully.```
-##     disassemble ```- Prints the assembly instructions being executed, starting at the current source line. You can also specify absolute memory references or function names to start disassembly somewhere other than the default. Only useful if you can read the assembly language of your CPU.```
-##     finish ```- Continue until exit of current function. Will also print the return value of the function (if applicable).```
+
+##     break / clear 
+	```- break sets a breakpoint. When execution reaches a breakpoint, the debugger will stop the program and return you to the gdb prompt. You can set breakpoints on functions, lines of code, or individual instructions; see the help text for details. clear, naturally, clears a breakpoint.```
+
+##     step / next 
+	```- step and next allow you to manually advance the program's execution. next runs the program until you reach a different source line; step does the same thing, but also descends into called functions.```
+
+##     continue 
+	```- continue the program normally until the next breakpoint is hit.```
+
+##     print 
+	```- Prints the expression. You can specify variable names, registers, and absolute addresses, as well as more complex expressions (help print for details). Variable names have to be resolveable, which means they either have to be local variables within the current stack frame or global variables. Register names start with a $ sign, like print $eax. Addresses are specified as numbers, like print 0xdeadbeef. * Expressions can be fairly complex. For example, if you have a pointer to a structure named foo, print foo will print the memory address that foo points to, print *foo will print the structure being pointed too, and print foo->bar will print the bar member of the foo structure.```
+
+##     handle 
+	```- Tells the debugger how to handle various signals. The defaults are mostly sensible, but there are two you may wish to change. SIGPIPE is generated when a client dies, which you may not always care about, and SIGUSR1 is generated on VT switch. By default, the debugger will halt the running process when it receives these signals; to change this, say handle SIGPIPE nostop and handle SIGUSR1 nostop. (Note: Don't use handle SIGUSR1 ignore or you can confuse things quite badly---for example, having multiple X servers simultaneously active on the same VT can be very confusing.)```
+
+##     set environment 
+	```- Sets environment variables. The syntax is set environment name value; don't use an = sign like in bash, it won't do what you expect.```
+
+##     run 
+	```- Runs the program. If you only specify a program name on the command line (and not a process ID or a core file), gdb will load the program but not start running it until you say so. Arguments to run are passed verbatim to the child process, eg run :0 -verbose -ac.```
+
+##     kill
+	```- Kills the program being debugged. Not always useful, you'd often rather say...```
+
+##     detach 
+	```- which detaches the debugger from the running program, which can then shut down gracefully.```
+
+##     disassemble 
+	```- Prints the assembly instructions being executed, starting at the current source line. You can also specify absolute memory references or function names to start disassembly somewhere other than the default. Only useful if you can read the assembly language of your CPU.```
+
+##     finish 
+	```- Continue until exit of current function. Will also print the return value of the function (if applicable).```
 
 
 ⚓️↺ я не ўпэўнена, што яшчэ з’яўляюся сістэмай *?&;2-1^*
