@@ -1,5 +1,9 @@
 # WELCOME TO BLYAT LIST,  BLYATT $ # 
 
+
+const wadjet_set = new wadjet_set.clear(wadjet_set.size.has().keys());
+
+
 ```
 #!/bin/sh
 
