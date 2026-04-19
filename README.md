@@ -1,7 +1,8 @@
 # WELCOME TO BLYAT LIST,  BLYATT $ # 
 
 
-
+Once upon a time, when I just chomped chow mein on the block by the park...
+Sikheya street'an cho'n mein kitaaban vichon parheya ni
 
 const wadjet_set = new wadjet_set.clear(wadjet_set.size.has().keys());
 
