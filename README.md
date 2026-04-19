@@ -1,7 +1,13 @@
 # WELCOME TO BLYAT LIST,  BLYATT $ # 
 
 
+
+
 const wadjet_set = new wadjet_set.clear(wadjet_set.size.has().keys());
+
+
+<img width="1383" height="2693" alt="Screenshot 2026-04-19 at 07 06 35" src="https://github.com/user-attachments/assets/45d69d96-078a-4ae8-b605-258a0fce8953" />
+
 
 
 ```
