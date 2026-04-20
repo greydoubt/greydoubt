@@ -1,7 +1,7 @@
 #ﾉﾟヽﾉﾟヽﾉﾟ WELCOME TO BLYAT LIST,  BLYATT $ # ﾉﾟ◎ ◎ヽ ◎
 
 
-So long ago one could may very well say "once upon a time...," I found myself in the sun's uncaring dyinglight just chomping chow mein on the block by the park finna make a drop on the spot but then my main vvolloch Wadjet Set pulled up and Set said ...
+So long ago one could may very well say 「 once upon a time... ill have the inclination if you'll climb the rind... 」 just baring the grips of sunrise beneath the sun's uncaring dyinglight just chomping chow mein on the block by the park finna make a drop on the spot but then my main vvolloch Wadjet Set pulled up and Set said ...
 Sikheya street'an cho'n mein kitaaban vichon parheya ni
 
 const wadjet_set = new wadjet_set.clear(wadjet_set.size.has().keys());
