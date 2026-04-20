@@ -1,4 +1,4 @@
-# WELCOME TO BLYAT LIST,  BLYATT $ # 
+#ﾉﾟヽﾉﾟヽﾉﾟ WELCOME TO BLYAT LIST,  BLYATT $ # ﾉﾟ◎ ◎ヽ ◎
 
 
 Once upon a time, just chomping chow mein on the block by the park finna make a drop on the spot but then my main vvolloch Wadjet Set pulled up and Set said ...
