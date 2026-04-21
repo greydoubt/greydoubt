@@ -5924,6 +5924,10 @@ or as we  d̵̘̟̼͓̮̄͒̊̒̎́̑̒͌̚z̛̛̼͚̬̱͙͒̒̇̌̓́̒̚͜͢ͅ
 
 #ж#ж#ж#ж# 。。。。。你的爱就像自来水 ж 我直接从水龙头里喝。。。。。。。#ж#ж#ж#ж#
 
+<img width="110" height="48" alt="powered-by-NetBSD" src="https://github.com/user-attachments/assets/36c0d65e-189e-4244-91b3-00547674ba64" />
+
+
+
 Image Conversation λx . ophidia ereц grex 2̶̢̡͍͖̘̫ milady #kardasheva
 
 miladyѝ̷̹͙̝̞͓̹̤̟͋͑͂̀͊͌͐͘͢͠   
