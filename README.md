@@ -223,7 +223,7 @@ BASSLINE:
 
 
 
-```¿ ¡ ¿ ¡ ¿ ¡¡¡¿ ¡¡¡¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER! METEORA 9999 EVERY HIT CRITICAL !!! ```
+```¿ ¡ ¿ ¡¡¿ ¡¡¡ METEORA 9999 EVERY HIT CRITICAL !!!  ¿ ¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER!¡¡? !```
 
 
 
@@ -234,8 +234,12 @@ BASSLINE:
 
 
 
+```¿ ¡ ¿ ¡¡¿ ¡¡¡ METEORA 9999 EVERY HIT CRITICAL !!!  ```
 
-```¿ ¡ ¿ ¡ ¿ ¡¡¡¿ ¡¡¡¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER! METEORA 9999 EVERY HIT CRITICAL !!! ```
+
+
+
+```¿ ¡ EN REVERXA GLAGOLI js̫̺̗̮̓̈͒̈́̀̈́͜͡͞ͅ ¡ q̷̡͈̺̜͚̭͆͐̈́͛̊̈́̌͜¡w̶̨̞̦̥͙̅̅́͗͋͌́́̇ STRIKES! ¡FOREVER!¡¡? ! ¡FOREVER! METEORA 9999 EVERY HIT CRITICAL !!! ```
 
 
 TREMELOW: 
