@@ -1,6 +1,13 @@
 #ﾉﾟヽﾉﾟヽﾉﾟ WELCOME TO BLYAT LIST 桜 BLYATT ˢˡᵒʷᵉᵈ ⁺ ʳᵉᵛᵉʳᵇ $ # ﾉﾟ◎ ◎ヽ ◎
 
 
+
+
+<img width="720" height="400" alt="FreeBSD_13 0_boot_loader_autoboot_screenshot" src="https://github.com/user-attachments/assets/efaa079e-62bd-4513-8f80-a540be708328" />
+
+
+
+
 So long ago one could may very well say 「 once upon a time... ill have the inclination if you'll climb the rind... 」 just baring the grips of sunrise beneath the sun's uncaring dyinglight just chomping chow mein on the block by the park finna make a drop on the spot but then my main vvolloch Wadjet Set pulled up and Set said ...
 Sikheya street'an cho'n mein kitaaban vichon parheya ni
 
