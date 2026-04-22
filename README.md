@@ -3930,6 +3930,8 @@ phat lewt bootie binches🦂phat lewt bootie binches🦂phat lewt bootie binches
 ``` kikimora numerals for productivity 
     - 23Къ.къ ъDoofus
 
+    - malek taws 23-00.0Къ.къКъ.къКъ.къКъ.къКъ.къКъ.къ MINTCHIP SECRET OVERLOAD Къ.къ ъDoofus ROOFUS COOCHUS PUCCI XEROXUS BUTTCHEEKOS QVEEFOS MINT OFRE LOAD NOGRE 9999 MEXEORA
+
     - 24Къу.къуъOffice Doofus 
 
     - 25 КӀ кӀOO`фice ъDoofus
