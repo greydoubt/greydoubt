@@ -17,7 +17,7 @@ Sikheya street'an cho'n mein kitaaban vichon parheya ni
 const wadjet_set = new wadjet_set.clear(wadjet_set.size.has().keys());
 
 
-    Comapred to base model Siobhan )Japanese Osaka Street Sign: Lucca Seibzehn / Lucifer Werewolf Woman of Scotland) Emeralda's Gear, Crescens, was originally scheduled to align with an Anima and become an Omnigear, El-Crescens, as well as give her more character exploration. However, this aspect was removed during the final phases of development due to budget cuts 
+    Compared to base model Siobhan [Lit: Niponnixa Cream Heavy Roux Latte (Little Heavy Weight Brevy) or Sekka Snow Flower, literally from the nameless now discarded street sign that once read Nakamoto: )Japanese Osaka Street Sign: Lucca Seibzehn / Lucifer Werewolf Woman of Scotland) Emeralda's Gear, Crescens, was originally scheduled to align with an Anima and become an Omnigear, El-Crescens, as well as give her more character exploration. However, this aspect was removed during the final phases of development due to budget cuts 
 
     The music box in the beginning of the game is a present from Kim to Emeralda and excavated from the Zainab ruins. The player can at any time, even just before heading back down the mountain from Satan's house, check the left side of it to read an inscription that says: "Celebrating my daughter's birth... may all the dreams, courage & love in the world be yours..."
 
