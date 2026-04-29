@@ -9,7 +9,7 @@
 
 
 So long ago one could may very well say 「 once upon a time... ill have the inclination if you'll climb the rind... 」 just baring the grips of sunrise beneath the sun's uncaring dyinglight just chomping chow mein on the block by the park finna make a drop on the spot but then my main vvolloch Wadjet Set pulled up and Set said ...
-Sikheya street'an cho'n mein kitaaban vichon parheya ni
+Sikheya street'an cho'n mein kitaaban vichon parheya ni ʎpoqou
 
 
 
