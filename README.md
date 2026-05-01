@@ -3,7 +3,7 @@
 
 
 
-<img width="720" height="400" alt="FreeBSD_13 0_boot_loader_autoboot_screenshot" src="https://github.com/user-attachments/assets/efaa079e-62bd-4513-8f80-a540be708328" />
+<img width="720" height="400" alt="FreeBSD_13 0_boot_loader_autoboot_screenshot" src="https://github.com/user-attachments/assets/efaa079e-62bd-4513-8f80-a540be708328"/>
 
 
 
