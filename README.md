@@ -1,7 +1,7 @@
 #ﾉﾟヽﾉﾟヽﾉﾟ WELCOME TO BLYAT LIST 桜 BLYATT ˢˡᵒʷᵉᵈ ⁺ ʳᵉᵛᵉʳᵇ $ # ﾉﾟ◎ ◎ヽ ◎
 
 
-
+باب قَتْلِ مَنْ أَبَى قَبُولَ الْفَرَائِضِ وَمَا نُسِبُوا إِلَى الرِّدَّةِ
 
 <img width="720" height="400" alt="FreeBSD_13 0_boot_loader_autoboot_screenshot" src="https://github.com/user-attachments/assets/efaa079e-62bd-4513-8f80-a540be708328"/>
 
